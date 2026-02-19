@@ -23,11 +23,11 @@ The TVC serves over 1.5 million veterans in Texas. As of early 2026, the agency 
 
 TVC's reliance on manual spreadsheet tracking has created a "Reporting Bottleneck." This leads to:
 
-Significant risk of state funding clawbacks.
+* Significant risk of state funding clawbacks.
 
-Breach of statutory LBB deadlines (30-day reporting window).
+* Breach of statutory LBB deadlines (30-day reporting window).
 
-Inability to identify "Service Deserts" in rural Texas.
+* Inability to identify "Service Deserts" in rural Texas.
 
 ### **4. Success Metrics (KPIs)**
 
