@@ -24,6 +24,6 @@
 | --- | --- | --- |
 | `county_fips` | STRING | Standardized Texas County code `[8]`. |
 | `population` | INT64 | 2024/2025 Census estimates. |
-| `tier_requirement` | FLOAT64 | Calculated: 0.25 (), 0.50 (), 1.0 () `[1]`. |
+| `tier_requirement` | FLOAT64 | Calculated: 0.25 (< 100k), 0.50 (100k-249k), 1.0 (>250k)  `[1]`. |
 
 ---
