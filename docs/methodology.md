@@ -1,4 +1,4 @@
-##**Methodology:** Analytics & Remediation Strategy
+## **Methodology:** Analytics & Remediation Strategy
 
 This project utilizes a modern data-stack to remediate the vulnerabilities identified in SAO Report 25-003.
 
@@ -13,6 +13,6 @@ This project utilizes a modern data-stack to remediate the vulnerabilities ident
 **Python Scripts:** Development of data cleaning pipelines to standardize discharge status codes and identify missing DD-214 flags.
 
 ### **Phase 3: Spatial Analysis & Storytelling**
-* **GIS Integration: Using spatial overlays to map grant distribution against veteran density.
+* **GIS Integration:** Using spatial overlays to map grant distribution against veteran density.
 
-* **Visualization: Executive dashboards in Looker Studio designed for LBB and TVC Leadership briefings.
+* **Visualization:** Executive dashboards in Looker Studio designed for LBB and TVC Leadership briefings.
